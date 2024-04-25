@@ -1,3 +1,6 @@
+Note: The folder "express-api" has the complete backend working. API keys should be entered in the .env file before running the index.js file.
+
+
 <h1 align="center">Perplexity-Inspired LLM Answer Engine</h1>
 <div>
     <div align="center">
